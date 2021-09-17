@@ -11,9 +11,6 @@
 ### You can also find me here on the interwebs
 
 [<img alt="Twitter" src="https://img.shields.io/badge/vtrkanna_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/vtrkanna) [<img alt="LinkedIn" src="https://img.shields.io/badge/vtrkanna_%20-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/vtrkanna/)
-[<img alt="Skype" src="https://img.shields.io/badge/Skype-blue.svg?&style=for-the-badge&logo=skype&logoColor=white"/>](skype:vtrkanna?chat) 
-
-
 ### My Recent Blog posts ✍️
 
 <!--
